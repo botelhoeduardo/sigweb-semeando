@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="viveiro_itapua" id="viveiro_itapua">
+	<SimpleField name="LAYER" type="string"></SimpleField>
+	<SimpleField name="KML_FOLDER" type="string"></SimpleField>
+</Schema>
+<Folder><name>viveiro_itapua</name>
+  <Placemark>
+	<name>Viveiro Municipal de Itapuã do Oeste</name>
+	<description>
+		<![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+	<p style="text-align:center;font-weight:bold;background:#FFFFFF";padding:3px 3px 3px 3px;width:100%;font-size:16px>
+		Viveiro Municipal de Itapuã do Oeste
+	</p>
+	<p style="float:left;">
+		
+	</p>
+	<p style="text-align:center">
+		<div id="owl-demo" class="owl-carousel owl-theme">
+	    	
+	    </div>
+	</p>
+</body>
+
+</html>]]>
+	</description>
+      <Point><coordinates>-63.181566808586929,-9.180196435604891</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

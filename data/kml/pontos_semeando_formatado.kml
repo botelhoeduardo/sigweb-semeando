@@ -1,0 +1,7904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="rad_pts_semeando_2010_2015">
+	<Folder id="FeatureLayer0">
+		<name>rad_pts_semeando_2010_2015</name>
+		<Placemark id="ID_00000">
+			<name>RAD 01 - Manoel Messias Lima</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 01 - Manoel Messias Lima</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 01</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Manoel Messias Lima</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha 618</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>General Carneiro</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>5,484338</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade I</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.21545509278067,-9.08954402915848,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>RAD 02 - Heron da Silva Santos</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 02 - Heron da Silva Santos</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 02</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Heron da Silva Santos</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sítio Taboca</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha 618</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>General Carneiro</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>2,490367</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade I</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.20405587915944,-9.09514544850828,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>RAD 03 - Valdemir Rodrigues de Oliveira</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 03 - Valdemir Rodrigues de Oliveira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 03</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Valdemir Rodrigues de Oliveira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha 618</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>General Carneiro</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>0,653953</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade I</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.23277667790114,-9.091900445217096,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>RAD 04 - Edina Inácio de Souza</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 04 - Edina Inácio de Souza</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 04</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Edina Inácio de Souza</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha 618</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>General Carneiro</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>0,993018</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade I</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.24743713676239,-9.107169036076305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>RAD 05 - Edina Inácio de Souza</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 05 - Edina Inácio de Souza</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 05</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Edina Inácio de Souza</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha 616</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>General Carneiro</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>0,937019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade I</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.23950967974497,-9.124102333251154,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>RAD 06 - Geraldo Maria Magela da Silva</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 06 - Geraldo Maria Magela da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 06</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Geraldo Maria Magela da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha 616</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>General Carneiro</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>0,725156</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade I</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.2434009389419,-9.115061924032453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>RAD 07 - Geraldo Maria Magela da Silva</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 07 - Geraldo Maria Magela da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 07</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Geraldo Maria Magela da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha 616</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>General Carneiro</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>0,581086</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade I</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.23604123837395,-9.117864196069091,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>RAD 08 - Francisca M. dos S. Alves</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 08 - Francisca M. dos S. Alves</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 08</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Francisca M. dos S. Alves</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha 616</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>General Carneiro</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>0,528354</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade I</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.23157061046778,-9.124179205561415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>RAD 09 - Ironal da Silva</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 09 - Ironal da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 09</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Ironal da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Cajueiro</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Alto Madeira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>Dois de Julho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>8,360832</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade I</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.07304485839217,-9.498040040574983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>RAD 10 - Adalto Paiva</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 10 - Adalto Paiva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 10</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Adalto Paiva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>127</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha B-86</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>4 Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>S 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>0,73233</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade I</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.71624175552996,-9.407133553032782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>RAD 11 - Argeu Paiva</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 11 - Argeu Paiva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 11</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Argeu Paiva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha B-86</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>4 Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>S 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>2,621453</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade I</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.71290553493065,-9.401368596679083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>RAD 12 - Arnaldo de Souza Miranda</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 12 - Arnaldo de Souza Miranda</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 12</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Arnaldo de Souza Miranda</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha B-86</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>4 Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>S 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,057102</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.71257328775126,-9.377795430757557,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>RAD 13 - Erivelton Barbosa Pereira</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 13 - Erivelton Barbosa Pereira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 13</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Erivelton Barbosa Pereira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>141</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha B-86</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>4 Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>S 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,701669</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.71292737923858,-9.374827277004448,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>RAD 14 - José Elias Celestino</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 14 - José Elias Celestino</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 14</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>José Elias Celestino</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>154</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha B-86</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>4 Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>S 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,461117</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.71312654269405,-9.346365301804594,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>RAD 15 - Marcos Ronaldo Nantes</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 15 - Marcos Ronaldo Nantes</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 15</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Marcos Ronaldo Nantes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha B-86</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>4 Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>S 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>0,334322</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.71576850725365,-9.340430531238615,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>RAD 16 - Jaime Carvalho dos Santos</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 16 - Jaime Carvalho dos Santos</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 16</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Jaime Carvalho dos Santos</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>8 a 13</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha B-86</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>4 Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>S 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>3,135763</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.71701492440332,-9.320874681178552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>RAD 17 - Milton Julião de Oliveira</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 17 - Milton Julião de Oliveira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 17</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Milton Julião de Oliveira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>8</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha 119</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Cajueiro</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Alto Madeira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>BR</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>7,709696</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.09187850448704,-9.330668096181947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>RAD 18 - Luiz Otávio Cabral</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 18 - Luiz Otávio Cabral</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 18</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Luiz Otávio Cabral</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>32</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha 119</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Cajueiro</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Alto Madeira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>BR</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,069089</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.08859285705271,-9.3220555026609,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>RAD 19 - Amilton Silvério</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 19 - Amilton Silvério</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 19</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Amilton Silvério</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>20</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha 605</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Cajueiro</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Alto Madeira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>General Carneiro</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>4,197706</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.17058413021468,-9.185460406336746,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>RAD 20 - Danilo Teles Novaes</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 20 - Danilo Teles Novaes</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 20</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Danilo Teles Novaes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>11</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha Azul 2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Cachoeirinha</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>Azul</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,677923</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.24290754693062,-9.243416876721222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>RAD 21 - Francisco de Assis</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 21 - Francisco de Assis</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 21</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Francisco de Assis</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha Azul 1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Cachoeirinha</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Vale do Jamary</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>Azul</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,265969</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.25244501442062,-9.219383111396743,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>RAD 22 - Sebastião Alves</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 22 - Sebastião Alves</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 22</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Sebastião Alves</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha Azul 1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Cachoeirinha</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>Azul</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,180529</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.24771223914118,-9.224727682764851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>RAD 23 - José Gilson Pinheiro</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 23 - José Gilson Pinheiro</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 23</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>José Gilson Pinheiro</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha travessão - B40 A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>Azul</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,59557</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.21790256086265,-9.229723649692184,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>RAD 24 - Jorge Bach</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 24 - Jorge Bach</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 24</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Jorge Bach</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha 618</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>General Carneiro</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>0,986432</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.24363442738265,-9.061822737565318,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>RAD 25 - Edivaldo Félix da Silva</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 25 - Edivaldo Félix da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 25</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Edivaldo Félix da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha 618</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>General Carneiro</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>4,085954</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.24712676022492,-9.058543977181998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>RAD 26 - Adalto Pereira de Souza</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 26 - Adalto Pereira de Souza</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 26</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Adalto Pereira de Souza</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>42</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>5 Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>S 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,37276</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.67771206800001,-9.435181338000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>RAD 27 - Ezequiel Farias de Araújo</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 27 - Ezequiel Farias de Araújo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 27</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Ezequiel Farias de Araújo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>BR 364</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>4 A</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>S 600</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>0,224619</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.38208470100045,-9.078806542753963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>RAD 28 - Adão Valencio dos Santos</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 28 - Adão Valencio dos Santos</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 28</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Adão Valencio dos Santos</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>B 40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>13,86193</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.202653565,-9.349288121000003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>RAD 29 - Rute Alves da Silva Carvalho</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 29 - Rute Alves da Silva Carvalho</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 29</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Rute Alves da Silva Carvalho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>6 e 7</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha Santa Barbara</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Cajueiro</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Alto Madeira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>BR</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>0,626841</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.15844841238942,-9.29631533416411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>RAD 30 - Antônio Gilvani Filgueiras</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 30 - Antônio Gilvani Filgueiras</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 30</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Antônio Gilvani Filgueiras</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>75</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha 623</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>10</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Vale do Jamary</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>S 600</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>2,706408</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.386428803,-9.170382180999997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>RAD 31 - Antônio Pinto Rosa</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 31 - Antônio Pinto Rosa</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 31</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Antônio Pinto Rosa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>29</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>5 Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>S 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,894149</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.66297182100001,-9.464274924000007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>RAD 32 - Dionízio Luiz Gomes de Oliveira</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 32 - Dionízio Luiz Gomes de Oliveira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 32</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Dionízio Luiz Gomes de Oliveira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>37</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>RO 205 - LINHA C 105</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Seringal Rio Preto</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>Dois de Julho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>3,088078</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.932904977,-9.527496854000004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>RAD 33 - Donizete Francisco Marquins</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 33 - Donizete Francisco Marquins</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 33</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Donizete Francisco Marquins</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha B40 A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>Azul</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>0,872003</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.194878176,-9.287293385999991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>RAD 34 - Edson Marcos da Cruz</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 34 - Edson Marcos da Cruz</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 34</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Edson Marcos da Cruz</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>67</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha 623</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>10</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Vale do Jamary</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>S 600</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,014669</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.388296124,-9.171814228999992,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>RAD 35 - Eliana Alves da Costa</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 35 - Eliana Alves da Costa</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 35</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Eliana Alves da Costa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>24</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>RO 205 - Linha C 105</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Seringal Rio Preto</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>Dois de Julho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>0,617208</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.95576309800001,-9.526073690999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>RAD 36 - Ernestro Martins</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 36 - Ernestro Martins</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 36</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Ernestro Martins</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha Azul 2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>Azul</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>2,053902</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.31645759800001,-9.291907287999996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>RAD 37 - Francisco Teixeira</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 37 - Francisco Teixeira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 37</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Francisco Teixeira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>60</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha Santa Barbara</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Cajueiro</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Alto Madeira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>BR</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>2,062874</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.132556379,-9.288748484000008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>RAD 38 - Geraldo Gomes</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 38 - Geraldo Gomes</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 38</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Geraldo Gomes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>27</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>RO 205 - Linha C 105</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Seringal Rio Preto</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>Dois de Julho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>2,722951</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.957908949,-9.525194847999998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>RAD 39 - Ideni Alves da Silva Pereira</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 39 - Ideni Alves da Silva Pereira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 39</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Ideni Alves da Silva Pereira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>LINHA 113</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Cajueiro</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Alto Madeira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>BR</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,456606</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.143505072,-9.254833962999996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>RAD 40 - Ivanildo Santos da Silva</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 40 - Ivanildo Santos da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 40</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Ivanildo Santos da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>41</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>LINHA B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>5 Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>S 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>2,17833</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.67838438,-9.438174684,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>RAD 41 - Jadir Terto Luiz de Lima</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 41 - Jadir Terto Luiz de Lima</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 41</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Jadir Terto Luiz de Lima</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>RO 452 - Estrada da Mineraçã</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Cajueiro</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Alto Madeira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>General Carneiro</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,814903</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.164671222,-9.205472515999997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>RAD 42 - João Adalberto Testa</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 42 - João Adalberto Testa</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>41</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 42</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>João Adalberto Testa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha 115</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>1249</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>B 40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,378657</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.21489684299999,-9.439584687000002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>RAD 43 - João Maria Ferreira</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 43 - João Maria Ferreira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>42</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 43</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>João Maria Ferreira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>29</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>RO 205 - Linha C 105</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Seringal Rio Preto</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>Dois de Julho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>0,624582</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.94698640699999,-9.526472082000007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>RAD 44 - Jose da Costa Lima</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 44 - Jose da Costa Lima</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>43</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 44</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Jose da Costa Lima</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha 624 - São Pedro</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>S 600</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,658727</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.30057783099999,-8.99883991100001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>RAD 45 - José Roberto Bispo dos Santos</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 45 - José Roberto Bispo dos Santos</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>44</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 45</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>José Roberto Bispo dos Santos</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>33 e 34</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>5 Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>S 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,384595</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.67962004099999,-9.436969533999998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>RAD 46 - Juarez de Paula</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 46 - Juarez de Paula</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>45</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 46</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Juarez de Paula</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>BR 364</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Cajueiro</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Alto Madeira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>BR</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,511131</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.15632318100001,-9.283315754,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>RAD 47 - Jucelino Silva dos Santos</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 47 - Jucelino Silva dos Santos</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 47</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Jucelino Silva dos Santos</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>21</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha 605</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Cajueiro</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Alto Madeira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>General Carneiro</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>0,747396</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.183937194,-9.172767922000004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>RAD 48 - Gilberto Falcão Metzker</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 48 - Gilberto Falcão Metzker</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 48</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Gilberto Falcão Metzker</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>RO 205 - Linha C 105</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Seringal Rio Preto</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>Dois de Julho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>2,63915</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.94000545499999,-9.525857017999993,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>RAD 49 - Maria José Francisco de Souza</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 49 - Maria José Francisco de Souza</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>48</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 49</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Maria José Francisco de Souza</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>32</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>RO 205 - Linha C 105</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Seringal Rio Preto</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>Dois de Julho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>2,338665</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.95262667399999,-9.504372691999995,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>RAD 50 - Marlene Maria dos Anjos Aguilera de Oliveira</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 50 - Marlene Maria dos Anjos Aguilera de Oliveira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>49</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 50</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Marlene Maria dos Anjos Aguilera de Oliveira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha Azul 1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>Azul</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>2,114333</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.30167586,-9.218960087999994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name>RAD 51 - Neide de Abreu Oliveira</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 51 - Neide de Abreu Oliveira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 51</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Neide de Abreu Oliveira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>37</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>RO 205 - Linha C 105</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Seringal Rio Preto</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>Dois de Julho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,300135</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.94662154299999,-9.524825708999996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00051">
+			<name>RAD 52 - Selvino Twadowski</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 52 - Selvino Twadowski</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>51</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 52</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Selvino Twadowski</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>12</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha 113</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Cajueiro</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Alto Madeira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>BR</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>0,719584</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.161092233,-9.258576733999995,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00052">
+			<name>RAD 53 - Tereza Gomes</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 53 - Tereza Gomes</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>52</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 53</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Tereza Gomes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>22</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>RO 205 - Linha C 105</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Seringal Rio Preto</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>Dois de Julho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,417306</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.958503813,-9.526411732999993,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00053">
+			<name>RAD 54 - Vanderlei Angelo</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 54 - Vanderlei Angelo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>53</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 54</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Vanderlei Angelo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>43</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>RO 205 - Linha C 105</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Seringal Rio Preto</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>Dois de Julho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,612695</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.941608746,-9.524743482000007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00054">
+			<name>RAD 55 - Wildson Rodrigues Chaveiro</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 55 - Wildson Rodrigues Chaveiro</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>54</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 55</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Wildson Rodrigues Chaveiro</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>26</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>RO 205 - Linha C 105</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Seringal Rio Preto</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Jarú Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>Dois de Julho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Assinado</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>3,643265</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-62.95853733999999,-9.503310034000002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00055">
+			<name>RAD 56 - Edmilson Santana Parente</name>
+
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RAD 56 - Edmilson Santana Parente</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>55</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAD</td>
+
+<td>RAD 56</td>
+
+</tr>
+
+<tr>
+
+<td>NOME</td>
+
+<td>Edmilson Santana Parente</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LOTE</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>LINHA</td>
+
+<td>Linha Azul 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLEBA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>Sd.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIO</td>
+
+<td>Itapuã do Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>SETOR</td>
+
+<td>Azul</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TERMO</td>
+
+<td>Sem termo</td>
+
+</tr>
+
+<tr>
+
+<td>AREA</td>
+
+<td>1,71133</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROJETO</td>
+
+<td>Semeando Sustentabilidade II</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			
+			<Point>
+				<coordinates>-63.26966989799999,-9.276657169999998,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
